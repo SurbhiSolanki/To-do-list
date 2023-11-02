@@ -1,2 +1,2 @@
 # To-do-list
-Author-Surbhi Solanki
+Author-Surbhi Solanki.
